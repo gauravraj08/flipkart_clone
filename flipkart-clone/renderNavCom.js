@@ -1,4 +1,4 @@
-import products from "./products.json";
+import products from "./public/api/products.json";
 export const renderNav = () => {
   document.addEventListener("DOMContentLoaded", function () {
     const navbar = document.querySelector(".navbar");

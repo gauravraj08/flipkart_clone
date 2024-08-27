@@ -127,3 +127,29 @@ body {
 .carousel-controls .next {
   border-radius: 10% 0 0 10%;
 }
+
+/* Electronic products */
+.electronic_products {
+  background-color: #fff;
+  margin: 1rem;
+  padding: 1rem;
+}
+.products_inner {
+  display: flex;
+  padding: 2rem 0 0;
+  gap: 2rem;
+}
+.product_item {
+  text-align: center;
+  border-width: 0.5px;
+  border: rgba(98, 95, 95, 0.128) solid;
+  border-radius: 1px;
+  padding-bottom: 1rem;
+}
+.product_item img {
+  width: 100%;
+}
+.price {
+  margin-top: 0.2rem;
+  font-weight: bold;
+}
