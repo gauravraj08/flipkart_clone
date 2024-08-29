@@ -5,23 +5,23 @@
     "product_price": "499"
   },
   {
-    "product_name": "Best Selling Mobile Speakers",
+    "product_name": "Fans",
     "image": "./images/fans.webp",
-    "product_price": "499"
+    "product_price": "999"
   },
   {
-    "product_name": "Best Selling Mobile Speakers",
+    "product_name": "Irons",
     "image": "./images/iron.webp",
-    "product_price": "499"
+    "product_price": "399"
   },
   {
-    "product_name": "Best Selling Mobile Speakers",
+    "product_name": "Best Selling Earbuds",
     "image": "./images/oneplusB.jpg",
-    "product_price": "499"
+    "product_price": "1299"
   },
   {
-    "product_name": "Best Selling Mobile Speakers",
+    "product_name": "Tabs",
     "image": "./images/tab.webp",
-    "product_price": "499"
+    "product_price": "1399"
   }
 ]
