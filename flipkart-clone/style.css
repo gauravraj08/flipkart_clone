@@ -159,3 +159,74 @@ body {
   margin-top: 0.2rem;
   font-weight: bold;
 }
+.footer {
+  background-color: #2b2b2b;
+  color: #ffffff;
+  padding: 2rem 1rem;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 0.9rem;
+  margin: 1rem;
+}
+
+.footer__container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.footer__section h4 {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.footer__section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer__section ul li {
+  margin-bottom: 0.5rem;
+}
+
+.footer__section ul li a {
+  color: #a9a9a9;
+  text-decoration: none;
+}
+
+.footer__section ul li a:hover {
+  text-decoration: underline;
+}
+
+.footer__section p {
+  color: #a9a9a9;
+  line-height: 1.5;
+}
+
+.footer__bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #444;
+  padding-top: 1rem;
+}
+
+.footer__bottom-left a {
+  color: #a9a9a9;
+  text-decoration: none;
+  margin-right: 1rem;
+}
+
+.footer__bottom-left a:hover {
+  text-decoration: underline;
+}
+
+.footer__bottom-left span {
+  color: #a9a9a9;
+}
+
+.footer__bottom-right img {
+  width: 100%;
+  padding-right: 2rem;
+}
