@@ -1,42 +1,75 @@
 [
   {
     "name": "Grocery",
-    "image": "https://rukminim2.flixcart.com/flap/96/96/image/29327f40e9c4d26b.png?q=100"
+    "image": "https://rukminim2.flixcart.com/flap/96/96/image/29327f40e9c4d26b.png?q=100",
+    "items": ["Oil", "Rice", "Snacks", "Skin Care", "Oral Care"]
   },
   {
     "name": "Mobiles",
-    "image": "https://rukminim2.flixcart.com/flap/96/96/image/22fddf3c7da4c4f4.png?q=100"
+    "image": "https://rukminim2.flixcart.com/flap/96/96/image/22fddf3c7da4c4f4.png?q=100",
+    "items": [
+      "Smartphones",
+      "Feature Phones",
+      "Mobile Accessories",
+      "Tablets",
+      "Power Banks"
+    ]
   },
   {
     "name": "Fashion",
     "image": "https://rukminim2.flixcart.com/fk-p-flap/96/96/image/0d75b34f7d8fbcb3.png?q=100",
-    "dropdown": true
+    "dropdown": true,
+    "items": ["Men's Wear", "Women's Wear", "Footwear", "Watches", "Bags"]
   },
   {
     "name": "Electronics",
     "image": "https://rukminim2.flixcart.com/flap/96/96/image/69c6589653afdb9a.png?q=100",
-    "dropdown": true
+    "dropdown": true,
+    "items": ["Laptops", "Cameras", "Headphones", "Smart Watches", "Printers"]
   },
   {
     "name": "Home & Furniture",
-    "image": "https://rukminim2.flixcart.com/flap/96/96/image/ab7e2b022a4587dd.jpg?q=100"
+    "image": "https://rukminim2.flixcart.com/flap/96/96/image/ab7e2b022a4587dd.jpg?q=100",
+    "items": ["Beds", "Sofas", "Dining Tables", "Wardrobes", "Chairs"]
   },
   {
     "name": "Appliances",
-    "image": "https://rukminim2.flixcart.com/fk-p-flap/96/96/image/0139228b2f7eb413.jpg?q=100"
+    "image": "https://rukminim2.flixcart.com/fk-p-flap/96/96/image/0139228b2f7eb413.jpg?q=100",
+    "items": [
+      "Refrigerators",
+      "Microwaves",
+      "Washing Machines",
+      "Air Conditioners",
+      "Water Purifiers"
+    ]
   },
   {
     "name": "Travel",
-    "image": "https://rukminim2.flixcart.com/flap/96/96/image/71050627a56b4693.png?q=100"
+    "image": "https://rukminim2.flixcart.com/flap/96/96/image/71050627a56b4693.png?q=100",
+    "items": [
+      "Flight Tickets",
+      "Hotels",
+      "Holiday Packages",
+      "Bus Tickets",
+      "Train Tickets"
+    ]
   },
   {
     "name": "Beauty, Toys & More",
     "image": "https://rukminim2.flixcart.com/flap/96/96/image/dff3f7adcf3a90c6.png?q=100",
-    "dropdown": true
+    "dropdown": true,
+    "items": ["Makeup", "Fragrances", "Toys", "Stationery", "Personal Care"]
   },
   {
     "name": "Two Wheelers",
     "image": "https://rukminim2.flixcart.com/fk-p-flap/96/96/image/05d708653beff580.png?q=100",
-    "dropdown": true
+    "dropdown": true,
+    "items": [
+      "Scooters",
+      "Motorcycles",
+      "Bicycles",
+      "Electric Bikes",
+      "Bike Accessories"
+    ]
   }
 ]
