@@ -257,10 +257,6 @@ body {
   display: inline-block;
 }
 
-/* .nav-item:hover a {
-  color: #2874f0; 
-} */
-
 /* Dropdown */
 .dropdown {
   display: none;
@@ -281,7 +277,7 @@ body {
 }
 
 .dropdown li a {
-  color: #636060db;
+  color: #312f2fdb;
   font-size: 14px;
   text-decoration: none;
 }
